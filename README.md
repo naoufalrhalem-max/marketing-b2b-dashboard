@@ -4,7 +4,9 @@ Dashboard HTML autonome (Chart.js via CDN) pour Tableau Web Extension.
 
 - Données : 31 329 leads, janvier 2025 - octobre 2026
 - 2025 : 22 795 leads | 2026 : 8 534 leads
-- SQL, orders, placements, revenue, analyses mensuelles et comparaisons MoM / QoQ / YoY
+- SQL 2026 : 1 865 (champ Field Accepted / Lead ACTION)
+- SQL 2025 : non disponible — le champ Field Accepted n'est pas exporté dans le fichier 2025 (aucun proxy Lifecycle Stage)
+- Orders, placements, revenue, analyses mensuelles et comparaisons MoM / QoQ / YoY
 - Colonne OPCO normalisée en majuscules (une seule forme par entité)
 
 ## URL publique
