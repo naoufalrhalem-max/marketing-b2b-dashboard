@@ -1,22 +1,22 @@
 # Marketing B2B Dashboard 2025-2026
 
-Dashboard HTML autonome (Chart.js via CDN) pour Tableau Web Extension.
+Standalone HTML dashboard (Chart.js via CDN) for Tableau Web Extension.
 
-- Données : 31 329 leads, janvier 2025 - octobre 2026
-- 2025 : 22 795 leads | 2026 : 8 534 leads
-- SQL 2026 : 1 865 (champ Field Accepted / Lead ACTION)
-- SQL 2025 : non disponible — le champ Field Accepted n'est pas exporté dans le fichier 2025 (aucun proxy Lifecycle Stage)
-- Orders, placements, revenue, analyses mensuelles et comparaisons MoM / QoQ / YoY
-- Colonne OPCO normalisée en majuscules (une seule forme par entité)
+- Data: 31,329 leads, January 2025 - October 2026
+- 2025: 22,795 leads | 2026: 8,534 leads
+- SQL 2026: 1,865 (Field Accepted / Lead ACTION)
+- SQL 2025: unavailable in the source file (Field Accepted not exported); shown as 0, no Lifecycle Stage proxy
+- Orders, placements, revenue, monthly trends and MoM / QoQ / YoY comparisons
+- OPCO normalized to UPPERCASE; SPEBP prefix removed; SPEML merged into ML
 
-## URL publique
+## Public URL
 
 https://naoufalrhalem-max.github.io/marketing-b2b-dashboard/
 
-## Utilisation dans Tableau
+## Tableau usage
 
-Objet **Extension Web** avec l'URL :
+Use a **Web Page** object with:
 
 https://naoufalrhalem-max.github.io/marketing-b2b-dashboard/Marketing_B2B_Dashboard.html
 
-Alternative : https://naoufalrhalem-max.github.io/marketing-b2b-dashboard/
+Alternative: https://naoufalrhalem-max.github.io/marketing-b2b-dashboard/
