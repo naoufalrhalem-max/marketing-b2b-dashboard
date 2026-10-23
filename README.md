@@ -1,11 +1,11 @@
-﻿# Marketing B2B Dashboard 2025-2026
+# Marketing B2B Dashboard 2025-2026
 
 Dashboard HTML autonome (Chart.js via CDN) pour Tableau Web Extension.
 
-- Donnees : 31 329 leads, janvier 2025 - octobre 2026
+- Données : 31 329 leads, janvier 2025 - octobre 2026
 - 2025 : 22 795 leads | 2026 : 8 534 leads
 - SQL, orders, placements, revenue, analyses mensuelles et comparaisons MoM / QoQ / YoY
-- Colonne OPCO normalisee en majuscules (une seule forme par entite)
+- Colonne OPCO normalisée en majuscules (une seule forme par entité)
 
 ## URL publique
 
